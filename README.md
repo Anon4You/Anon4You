@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Anon4You/Anon4You** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Alienkrishn [Anon4You]**
 
-Here are some ideas to get you started:
+just a regular guy trying to learn linux and shell scripting consepts by himself 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My custom termux repo**
+* [Alienkrishn](https://github.com/Anon4You/Anon4You/alienkrishn) - is a custom termux repository which contains new tools for termux in it
+
+Feel free to explore my repositories and don't hesitate to reach out. Let's collaborate and make something amazing together! 🌟
+
+**Contact Me**
+* [Telegram](https://t.me/alienkrishn)
+* [Instagram](https://www.instagram.com/alienkrishn)
+
+Looking forward to connecting with like-minded individuals and building something impactful! 💻✨
