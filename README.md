@@ -5,7 +5,7 @@
 just a regular guy trying to learn linux and shell scripting consepts by himself 🧑‍💻
 
 **My custom termux repo**
-* [Alienkrishn](https://github.com/Anon4You/Anon4You/alienkrishn) - is a custom termux repository which contains new tools for termux in it
+* [Alienkrishn](https://anon4you.github.io/alienkrishn/) - is a custom termux repository which contains new tools for termux in it
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's collaborate and make something amazing together! 🌟
 
