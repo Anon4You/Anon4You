@@ -4,6 +4,8 @@
 
 just a regular guy trying to learn linux and shell scripting consepts by himself 🧑‍💻
 
+<p align="center"><a href="https://github.com/Anon4You"><img title="Alienkrishn" src="https://github-readme-stats-q2ta.vercel.app/api?username=Anon4You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+
 **My termux repo**
 * [Alienkrishn](https://anon4you.github.io/alienkrishn/) - is a custom termux repository which contains new tools for termux in it
 
