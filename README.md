@@ -7,12 +7,16 @@ Passionate about exploring Termux, automation, and open-source tools. Learning b
 
 ## **📊 GitHub Stats**  
 
-<p align="center"><a href="https://www.youtube.com/@alienkrishnorg"><img title="Alienkrishn" src="https://github-readme-stats-q2ta.vercel.app/api?username=Anon4You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon4You&layout=compact&theme=radical&hide_border=true&bg_color=000000" />
-  </a>
+<p align="center"><a
+                      
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Anon4You&show_icons=true&theme=github_dark)
+    
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Anon4You&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anon4You&layout=compact&theme=github_dark)
+    
+</a>
 </p>
 
----
 
 ## **🚀 My Projects**  
 
