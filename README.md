@@ -23,7 +23,7 @@ Passionate about exploring Termux, automation, and open-source tools. Learning b
 ### **🔧 [Termux Void Repo](https://termuxvoid.github.io)**  
 A custom Termux repository with **powerful tools & scripts** for hacking, automation, and productivity.
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=termuxvoid&repo=apkgen-cli&theme=radical)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=termuxvoid&repo=apkgen-cli&theme=radical)](https://github.com/termuxvoid/apkgen-cli)
 
 *(Feel free to contribute!)*  
 
