@@ -1,4 +1,5 @@
 <div align="center">
+<img height="180" src="https://www.gifcen.com/wp-content/uploads/2024/02/alien-gif-8.gif"/>
 
 # Hi, I'm **Alienkrishn** `(Anon4You)`
 
@@ -41,7 +42,9 @@ An unofficial, custom **Termux `apt` repository** maintained by me. It provides 
 <br>
 
 <div align="center">
-  <img width="450" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=termuxvoid&repo=apkgen-cli&hide_border=true&border_radius=8&theme=github_dark&bg_color=00000000&title_color=FFFFFF&icon_color=8b949e&text_color=c9d1d9" />
+  <a href="https://github.com/termuxvoid/apkgen-cli">
+    <img width="450" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=termuxvoid&repo=apkgen-cli&hide_border=true&border_radius=8&theme=github_dark&bg_color=00000000&title_color=FFFFFF&icon_color=8b949e&text_color=c9d1d9" />
+  </a>
 </div>
 
 ---
@@ -54,10 +57,10 @@ An unofficial, custom **Termux `apt` repository** maintained by me. It provides 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/alienkrishn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alienkrishn)
 
-<br><br>
 
 <img src="https://img.shields.io/badge/Open_to_Collaborate-58A6FF?style=flat-square&logo=handshake&logoColor=white" /> 
-*Feel free to reach out for cool projects or collaborations.*
+
+**Feel free to reach out for cool projects or collaborations.**
 
 </div>
 
@@ -67,7 +70,7 @@ An unofficial, custom **Termux `apt` repository** maintained by me. It provides 
 
 <img src="https://komarev.com/ghpvc/?username=Anon4You&label=Profile+Views&color=58A6FF&style=flat-square&labelColor=0D1117" alt="Profile Views" />
 
-<br><br>
+<br>
 
 **Thanks for visiting.** *Let's build something amazing.*
 
