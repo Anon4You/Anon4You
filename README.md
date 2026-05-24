@@ -14,8 +14,7 @@
 ## 📊 Analytics
 
 <div align="center">
-  <a href="https://www.youtube.com/@alienkrishnorg"><img title="Alienkrishn" src="https://github-readme-stats-q2ta.vercel.app/api?username=Anon4You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon4You&layout=compact&theme=radical&hide_border=true&bg_color=000000" />
+  <a href="https://www.youtube.com/@alienkrishnorg"><img title="Alienkrishn" src="https://github-readme-stats-q2ta.vercel.app/api?username=Anon4You&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
   </a>
   &nbsp;&nbsp;
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Anon4You&hide_border=true&border_radius=8&theme=github_dark&bg_color=00000000&title_color=FFFFFF&icon_color=8b949e&text_color=c9d1d9&date_format=M%20j%5B%2C%20Y%5D" />
