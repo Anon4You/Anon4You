@@ -1,5 +1,5 @@
 <div align="center">
-<img height="180" src="https://www.gifcen.com/wp-content/uploads/2024/02/alien-gif-8.gif"/>
+<img height="180" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZzZwa3Q0bGcyeHBoOWZ2enpoNWJ0ZWducnVscjlkMXp4bG9mMTRwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FY0a7W5omfKi6m1dZr/giphy.gif"/>
 
 # Hi, I'm **Alienkrishn** `(Anon4You)`
 
