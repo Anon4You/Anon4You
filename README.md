@@ -30,28 +30,15 @@ Maintaining the **TermuxVoid** organization — the **[termuxvoid/repo](https://
 
 ---
 
-## 🚀 Featured Project
-
-### **[Termux Void Repo](https://termuxvoid.github.io)**
-
-An unofficial, custom **Termux repository** maintained by me. It ships the same tools as both an **`apt` and `pacman`** repository, providing **250+ optimized security tools** built for enhanced performance and reliability directly on Android devices.
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Unofficial_Repository-555555?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/APT_%2B_Pacman-26A5E4?style=flat-square" />
-  <img src="https://img.shields.io/badge/250%2B_Tools-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Optimized_Performance-3FB950?style=flat-square" />
-  <img src="https://img.shields.io/badge/Enhanced_Reliability-8b949e?style=flat-square" />
-  <img src="https://img.shields.io/badge/PRs_Welcome-3FB950?style=flat-square&logo=github&logoColor=white" />
-</div>
-
-<br>
+## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/termuxvoid/apkgen-cli">
     <img width="450" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=termuxvoid&repo=apkgen-cli&hide_border=true&border_radius=8&theme=github_dark&bg_color=00000000&title_color=FFFFFF&icon_color=8b949e&text_color=c9d1d9" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/termuxvoid/tvpkg">
+    <img width="450" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=termuxvoid&repo=tvpkg&hide_border=true&border_radius=8&theme=github_dark&bg_color=00000000&title_color=FFFFFF&icon_color=8b949e&text_color=c9d1d9" />
   </a>
 </div>
 
